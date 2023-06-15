@@ -1,10 +1,10 @@
-Topic: GRADE CARD GENERATION FROM FILE DATA
+#Topic: GRADE CARD GENERATION FROM FILE DATA
                                                                       
-INTRODUCTION:
+##INTRODUCTION:
 
 The "Grade Card Generation from File Data" project is aimed at developing a program that automates the process of generating grade cards for students based on data stored in a file. The project leverages the power of data structures and file handling in C programming language to efficiently manage and process student information.
 
-OBJECTIVE:
+##OBJECTIVE:
 
 The primary objective of this project is to provide a convenient and organized way to generate grade cards, enabling easy access to student data, grades, CGPA, and other relevant information. By reading the data from a file and utilizing a binary search tree (BST) data structure, the program allows efficient storage, retrieval, and manipulation of student records.
 The key features of the Grade Card Generation program include:
@@ -17,7 +17,7 @@ Grade Card Generation: The program provides functionalities to generate grade ca
 
 User-Friendly Interface: The program offers a menu-driven interface that allows users to interact with the system effortlessly. Users can select various options from the menu to access different functionalities of the program, making it intuitive and easy to navigate.
 
-ADVANTAGES:
+##ADVANTAGES:
 
 Efficient Data Storage and Retrieval: The code utilizes a binary search tree (BST) data structure to store and organize student information. This allows for efficient searching, insertion, and retrieval of student records based on their CGPA, providing quick access to specific student grade cards.
  
