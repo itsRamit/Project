@@ -36,9 +36,4 @@ User-Friendly Interface: The code offers a menu-driven interface that makes it u
 Scalability: The code can handle a large number of student records since it uses a BST for efficient data management. This scalability ensures that the program can handle data from a substantial student population without compromising performance.
 Code Modularity: The code demonstrates modularity by using separate functions for different operations such as inserting a node, displaying the grade card, searching by name, CGPA, rank, and grade, and generating summary reports. This modular approach enhances code readability, maintainability, and reusability. 
 
-DISADVANTAGES:
-Fixed Number of Subjects: The code assumes a fixed number of subjects (5) for each student. If the project requirements change in the future to accommodate a different number of subjects, the code would need to be modified accordingly. This lack of flexibility may require additional effort and maintenance.
 
-Inefficient Memory Usage: The code uses a binary search tree (BST) to store student records. While BSTs offer efficient searching, insertion, and retrieval, they can consume more memory compared to other data structures. In situations with a large number of student records, this memory usage may become a concern.
-
-Limited Sorting Options: The code only sorts the student records based on CGPA. It does not provide options to sort based on other criteria, such as name or registration number. This limitation may restrict certain sorting requirements or preferences of users.
